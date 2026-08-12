@@ -1,4 +1,4 @@
-# orgs/etzhayyim/com-etzhayyim-kataribe — CLAUDE.md
+# orgs/etzhayyim/actor-kataribe — CLAUDE.md
 
 ## Identity
 
@@ -189,8 +189,8 @@ the west checkout. Run the repository suite with `bb --classpath src:test run_te
 
 ## Related Files
 
-- `/orgs/etzhayyim/com-etzhayyim-kataribe/manifest.edn`
-- `/orgs/etzhayyim/com-etzhayyim-kataribe/README.md`
+- `/orgs/etzhayyim/actor-kataribe/manifest.edn`
+- `/orgs/etzhayyim/actor-kataribe/README.md`
 - `/lex/` (5 Lexicons + README)
 - `/90-docs/adr/2605263600-kataribe-press-publishing-translation-tier-b-actor-r0.md`
 - `/90-docs/adr/2605181100-mst-encrypted-records-signal-keywrap.md` — G10 envelope

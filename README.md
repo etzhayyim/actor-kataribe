@@ -5,10 +5,16 @@
 **ADR**: ADR-2605263600 (R0 scaffold)
 **Status**: R0 scaffold (2026-05-26) — 6 cells path-reserved + 5 Lexicon skeletons
 **Cross-actor**: chigiri.ipLicenseClaim (whistleblower) / musubi (cross-doctrinal) / toritate (Public Fund grant) / kazaori (post-emergency chronicle) / manabi (future translated curriculum) / iyashi (clinical-grade review)
+**Canonical repository**: `etzhayyim/actor-kataribe`
 
 ## Overview
 
 Religious-corp press + publishing + translation substrate.
+
+Within the Tamaki artificial organism, kataribe is the communication organ: it
+drafts, translates, and chronicles. It is not an independent editor or doctrinal
+authority, and live publication remains subject to the existing consent,
+Council, signature, and channel gates.
 
 - **Community chronicle** — per-community-site quarterly history
 - **Doctrine commentary publishing** — cross-doctrinal Wellbecoming
@@ -103,8 +109,8 @@ See ADR-2605263600 §6.
 
 ## Related Files
 
-- `/orgs/etzhayyim/com-etzhayyim-kataribe/manifest.edn`
-- `/orgs/etzhayyim/com-etzhayyim-kataribe/CLAUDE.md`
+- `/orgs/etzhayyim/actor-kataribe/manifest.edn`
+- `/orgs/etzhayyim/actor-kataribe/CLAUDE.md`
 - `/lex/` (5 Lexicons + README)
 - `/90-docs/adr/2605263600-kataribe-press-publishing-translation-tier-b-actor-r0.md`
 - `/90-docs/adr/2605262700-chigiri-legal-procedure-tier-b-actor-r0.md` — whistleblower cross-actor

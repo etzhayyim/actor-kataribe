@@ -185,7 +185,7 @@ R3 adds annual_history_compendium + silenKataribeReview cycle.
 
 **R0 status**: standalone EDN contracts plus dry-run social and mesh components.
 Runtime activation belongs in its owning engine repository and consumes this actor through
-the west checkout. Run the repository suite with `bb --classpath src:test run_tests.cljk`.
+the west checkout. Run the repository suite with `kbb --classpath src:test run_tests.cljk`.
 
 ## Related Files
 

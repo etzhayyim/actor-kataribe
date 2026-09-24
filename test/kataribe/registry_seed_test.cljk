@@ -1,7 +1,7 @@
 (ns kataribe.registry-seed-test
   (:require [clojure.edn :as edn]
             [kotoba.lang.text :as str]
-            [clojure.test :refer [deftest is testing]]))
+            [kotoba.test :refer [deftest is testing]]))
 
 (def seed (edn/read-string (slurp "registry/channels.seed.edn")))
 (def channels (get seed "channels"))
